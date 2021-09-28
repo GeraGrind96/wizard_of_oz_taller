@@ -1,0 +1,6 @@
+/home/gerardo/Escritorio/Taller_Wizard_of_Oz/interactGUI_test/CMakeFiles/rebuild_cache.dir
+/home/gerardo/Escritorio/Taller_Wizard_of_Oz/interactGUI_test/CMakeFiles/edit_cache.dir
+/home/gerardo/Escritorio/Taller_Wizard_of_Oz/interactGUI_test/CMakeFiles/ui_mainUI.dir
+/home/gerardo/Escritorio/Taller_Wizard_of_Oz/interactGUI_test/src/CMakeFiles/rebuild_cache.dir
+/home/gerardo/Escritorio/Taller_Wizard_of_Oz/interactGUI_test/src/CMakeFiles/edit_cache.dir
+/home/gerardo/Escritorio/Taller_Wizard_of_Oz/interactGUI_test/src/CMakeFiles/ICES__home_gerardo_Escritorio_Taller_Wizard_of_Oz_interactGUI_test_src.dir
