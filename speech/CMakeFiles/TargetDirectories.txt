@@ -1,0 +1,5 @@
+/media/sf_Compartida_Linux/WorkspaceRoboComp/speech/CMakeFiles/rebuild_cache.dir
+/media/sf_Compartida_Linux/WorkspaceRoboComp/speech/CMakeFiles/edit_cache.dir
+/media/sf_Compartida_Linux/WorkspaceRoboComp/speech/src/CMakeFiles/rebuild_cache.dir
+/media/sf_Compartida_Linux/WorkspaceRoboComp/speech/src/CMakeFiles/edit_cache.dir
+/media/sf_Compartida_Linux/WorkspaceRoboComp/speech/src/CMakeFiles/ICES__media_sf_Compartida_Linux_WorkspaceRoboComp_speech_src.dir
