@@ -1,0 +1,13 @@
+import "EmotionalMotor.idsl";
+import "Display.idsl";
+
+Component emotionalMotor
+{
+	Communications
+	{
+		implements EmotionalMotor;
+		requires Display;
+	};
+	language Python;
+};
+
